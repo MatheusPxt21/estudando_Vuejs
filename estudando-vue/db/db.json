@@ -102,16 +102,6 @@
       "id": "4"
     },
     {
-      "id": "b71e",
-      "nome": "Testes",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado"
-    },
-    {
       "id": "ec57",
       "nome": null,
       "carne": null,
